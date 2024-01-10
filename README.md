@@ -1,7 +1,7 @@
 #How to run
 
--`cd medical-plant-client-main`.
+-`cd medical-plant-client-main`
 
--`npm install`.
+-`npm install`
 
--`npx expo start`.
+-`npx expo start`
